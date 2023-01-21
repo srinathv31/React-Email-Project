@@ -1,0 +1,36 @@
+{
+  "name": "email-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/index.mjs",
+    "build": "tsup src/index.tsx --format esm,cjs --dts --external react",
+    "dev": "tsup src/index.tsx --format esm,cjs --dts --external react --watch"
+  },
+  "author": "Srinath Venkatesh",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@typescript-eslint/eslint-plugin": "^5.48.2",
+    "@typescript-eslint/parser": "^5.48.2",
+    "eslint": "^8.32.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@react-email/button": "0.0.5",
+    "@react-email/container": "^0.0.5",
+    "@react-email/head": "^0.0.3",
+    "@react-email/hr": "^0.0.3",
+    "@react-email/html": "0.0.3",
+    "@react-email/img": "^0.0.3",
+    "@react-email/preview": "^0.0.4",
+    "@react-email/render": "0.0.6",
+    "@react-email/section": "^0.0.4",
+    "@react-email/text": "^0.0.3",
+    "react": "^18.2.0",
+    "react-email": "1.7.2",
+    "tsup": "^6.5.0"
+  }
+}

@@ -18,8 +18,8 @@
 
 Using the React Email library to render HTML for emails: https://react.email/
 
-* [![React][React.js]][React-url]
-* [![Typescript][TS]][![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]
-* [![ESlint][ESlint]][![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)]
+* (https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* (https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+* (https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
